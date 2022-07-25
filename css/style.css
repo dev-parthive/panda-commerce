@@ -9,8 +9,8 @@ body{
 .carousel-inner{
     background-color: #FCEAE8;
 }
-.carousel-inner h2{
-    font-size: 40px;
+.carousel-item h2{
+    font-size: 3rem;
 }
 .buy-now{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
@@ -22,3 +22,15 @@ body{
 .price{
     color: #FF136F;
 }
+
+
+/* main section start  */
+/* catagories start  */
+.watch-img{
+    /* height: 6.25rem; */
+}
+/* catagories end  */
+/* main section end  */
+
+
+
