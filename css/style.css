@@ -5,7 +5,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 /* Header start  */
-
 .carousel-inner{
     background-color: #FCEAE8;
 }
@@ -29,12 +28,27 @@ body{
 .watch-img{
     /* height: 6.25rem; */
 }
+#shoes-cart{
+    background-color: orchid;
+}
+#backpack-cart{
+    background-color: blue;
+}
 /* catagories end  */
 /* shoes section start form here  */
 .footer-card:hover .buy-now{
     color: #fff;
 }
 /* shoes section end  here  */
+
+/* subscribe start  */
+.subscribe{
+    margin-top: 120px;
+    margin-bottom: 80px;
+    background-color: #fceae8;
+    height: 40vh;
+}
+/* subscribe end   */
 
 /* main section end  */
 
